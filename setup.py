@@ -14,7 +14,7 @@ DESCRIPTION = 'A linter launcher for projects that have multiple source language
 URL = 'https://github.com/zulip/zulint'
 EMAIL = 'tabbott@zulipchat.com'
 AUTHOR = 'Tim Abbott'
-REQUIRES_PYTHON = '>=3.6.0'
+REQUIRES_PYTHON = '>=2.7.0'
 VERSION = None
 
 REQUIRED = [
