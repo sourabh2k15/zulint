@@ -1,0 +1,2 @@
+# zulint
+Zulip's linter
